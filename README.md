@@ -1,0 +1,2 @@
+# SmartClap
+Proximity Sensor
